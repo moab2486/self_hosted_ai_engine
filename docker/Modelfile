@@ -1,0 +1,7 @@
+FROM qwen2.5-coder:14b
+
+PARAMETER num_gpu 14
+
+PARAMETER num_ctx 8086
+
+PARAMETER num_thread 6
